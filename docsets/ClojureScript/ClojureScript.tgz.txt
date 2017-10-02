@@ -1,4 +1,4 @@
 Archive "ClojureScript.tgz" was processed at this location, pushed to the CDN and completely removed from git.
 
-Date: 2017-05-30 08:15:04 +0000
-SHA1: ababaed7399739cdae07e9addf2b2e08dba0138a
+Date: 2017-08-17 19:21:56 +0000
+SHA1: 06d28aaaae382ea4467498ccd2d903a1a5c35492

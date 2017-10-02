@@ -1,4 +1,4 @@
 Archive "Hammerspoon.tgz" was processed at this location, pushed to the CDN and completely removed from git.
 
-Date: 2017-04-26 18:40:02 +0000
-SHA1: 369fd4f34fd3de4d92fcfe80661dcdebd6042668
+Date: 2017-09-15 21:28:15 +0000
+SHA1: 97fa0dc90edfcb3198e3f09ceae78046105b4372

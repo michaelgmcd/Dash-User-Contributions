@@ -1,4 +1,4 @@
 Archive "Vulkan.tgz" was processed at this location, pushed to the CDN and completely removed from git.
 
-Date: 2017-06-06 19:42:08 +0000
-SHA1: edc1a6fb26db5a5c611dc21645b7d9285d1e2e77
+Date: 2017-09-17 08:21:13 +0000
+SHA1: b3f82c34da50bfef42f09d237f9a81be8abcb98b
